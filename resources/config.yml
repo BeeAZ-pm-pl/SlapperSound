@@ -1,0 +1,9 @@
+#Custom Sound
+sound: "random.orb" 
+#For example "random.levelup" , "random.explode" 
+pitch: 1
+#pitch sounds
+volume: 1
+#volume sound
+AddSound: true
+#false to turn off , true to turn on

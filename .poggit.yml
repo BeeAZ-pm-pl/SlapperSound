@@ -5,4 +5,5 @@ branches:
 projects:
   SlapperHitSound:
     path: ""
+    lint: false
 ...

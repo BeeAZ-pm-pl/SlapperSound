@@ -1,7 +1,6 @@
-name: SlapperSound
+name: SlapperHitSound
 main: BeeAZZ\SlapperSound\Main
 api: 4.0.0
 version: 0.0.1
-author: BeeAZZ
+author: BeeAZ
 depends: [Slapper]
-description: When Click Slapper There Will Be Sound

@@ -11,7 +11,7 @@ use slapper\events\SlapperHitEvent;
 
 class Main extends PluginBase implements Listener{
 
-  proteted $cfg;
+  protected $cfg;
   
   protected function onEnable():void{
     $this->saveDefaultConfig();
